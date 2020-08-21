@@ -5,7 +5,7 @@
 
 
 
-![2014 Stocks](images/2014.png)
+![2014 Stocks](VBA-Challenge/images/2014.png)
 
 
 
