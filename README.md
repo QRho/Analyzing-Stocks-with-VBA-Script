@@ -5,8 +5,8 @@
 
 
 
-![2014](https://github.com/QRho/2014.png)
-Format: ![Stocks for 2014](https://github.com/QRho/VBA-Challenge/2014.png)
+![2014 Stocks](images/2014.png)
+
 
 
 
