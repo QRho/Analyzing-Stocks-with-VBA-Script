@@ -17,6 +17,7 @@
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.*
 
 ![](VisualBasicPDF/2014VisualBasic.pdf)
+
 ![](images/2014.PNG)
 ![](images/2015.PNG)
 ![](images/2016.PNG)
