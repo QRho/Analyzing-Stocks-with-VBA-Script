@@ -16,7 +16,7 @@
 
    * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-![](VisualBasicIMG/2014VisualBasic-1.jpg =240x)
+![](VisualBasicIMG/2014VisualBasic-1.jpg)
 
 ![](images/2014.PNG)
 ![](images/2015.PNG)
