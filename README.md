@@ -1,8 +1,8 @@
 ## VBA  - The VBA of Wallstreet
 
-## I only added the opening and ending columns in the summary area so that I could more clearly check my work. 
-## Script files for each year are included as well as a screenshot of each year included.
 
+# Script files for each year are included as well as a screenshot of each year included.
+# Goals are listed below.
 
    * Created a script that will loop through all the stocks for one year and output the following information.
 
